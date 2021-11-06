@@ -1,0 +1,145 @@
+﻿
+New features with iOS15
+
+FaceTime
+SharePlay: Watch together
+Bring movies and TV shows into your FaceTime calls and enjoy a rich, real-time connection with your friends while watching the same content.
+
+SharePlay: Listen together
+Share music with your friends right in your FaceTime calls.
+
+SharePlay: Share your screen
+Share your screen to bring web pages, apps, and more into your conversation on FaceTime.
+
+SharePlay: Smart volume
+Dynamically responsive volume controls automatically adjust audio so you can hear your friends even during a loud scene or climactic chorus.
+
+SharePlay: Multiple device support
+Connect over FaceTime on your iPhone while watching video on your Apple TV or listening to music on your HomePod.
+
+Messages
+Shared with You
+Content sent to you over Messages automatically appears in a new Shared with You section in the corresponding app, so you can enjoy it when it’s convenient for you. Shared with You will be featured in Photos, Safari, Apple News, Apple Music, Apple Podcasts, and the Apple TV app.
+
+Shared with You: Continue the conversation
+Alongside shared content in the corresponding apps, you can see who sent it and tap the sender to view the associated messages and continue the conversation — right from the app — without going to Messages.
+
+Shared with You: Safari
+Interesting articles, recipes, and other links sent over Messages automatically appear in the new Shared with You section on the Safari start page. Articles that can be found in Safari and Apple News conveniently appear in Shared with You in both apps — so you can enjoy them in either place.
+
+Memoji
+Clothing
+Customize your Memoji with over 40 outfit choices to reflect your style, mood, or the season — and choose up to three different colors. Show it off using Memoji stickers with expressive body language that include the upper body.
+
+New Memoji stickers
+Nine new Memoji stickers let you send a shaka, a hand wave, a lightbulb moment, and more.
+
+Focus
+Focus
+Match your devices to your mindset with Focus. Automatically filter notifications based on what you’re currently doing. Turn on Do Not Disturb to switch everything off, or choose from a provided Focus for work, personal time, sleep, fitness, mindfulness, gaming, reading, or driving.
+
+Focus setup suggestions
+When you’re setting up a Focus, on device intelligence about your past activity suggests apps and people you want to allow notifications from.
+
+Focus customization
+Create a custom Focus to filter notifications based on what you’re currently doing. Choose an icon for your custom Focus and name it whatever you like.
+
+Notifications
+
+New look for notifications
+Notifications have a fresh new look, with contact photos for people and larger icons for apps.
+
+Maps
+Interactive globe
+Discover the natural beauty of Earth with a rich and interactive 3D globe, including significantly enhanced details for mountain ranges, deserts, forests, oceans, and more.
+
+Detailed new city experience
+Explore cities like San Francisco, Los Angeles, New York, and London with unprecedented detail for elevation, roads, trees, buildings, landmarks, and more. Road details like turn lanes and crosswalks and 3D views for complex interchanges help you navigate.3
+
+New driving features
+A new dedicated driving map highlights details like traffic and incidents, and a route planner lets you view your upcoming journey by choosing a future departure or arrival time.
+
+Safari
+Bottom tab bar
+The bottom tab bar puts controls right at your fingertips. Swipe left or right on the address bar to move between tabs. Or swipe up to see all your open tabs.
+Customizable start page
+Customize the start page to make it your own. You can set a background image and select new sections to display, like Privacy Report, Siri Suggestions, and Shared with You. Customizations sync across devices, so you can have the same Safari everywhere.
+Pull to refresh
+Refresh a web page by pulling down from the top of the page.
+
+Wallet
+Home keys
+Add home keys to Wallet on iPhone and Apple Watch, then simply tap to unlock a compatible HomeKit door lock for seamless access to your home. Home keys live in the Wallet app with other important items like your car keys and credit cards.4
+ID in Wallet
+You can add your driver’s license and state ID to Wallet on your iPhone and a paired Apple Watch and present them securely at TSA checkpoints.5
+Live Text
+Live Text in photos
+Text is now completely interactive in all your photos, so you can use functions like copy and paste, lookup, and translate. Live Text works in Photos, Screenshot, Quick Look, and Safari and in live previews with Camera.
+
+Spotlight
+Rich results
+Brings together all the information you’re looking for in one rich result. Available for contacts, actors, musicians, movies, and TV shows.
+
+Health
+Share health data with others
+Share your health data with people important to you or those who are caring for you. Choose which data and trends to share, including heart health, activity, labs, vitals, Medical ID, cycle tracking, and more.
+
+Mail
+Mail Privacy Protection
+Mail Privacy Protection helps protect your privacy by preventing email senders from learning information about your Mail activity. If you choose to turn it on, it hides your IP address so senders can’t link it to your other online activity or determine your location. And it prevents senders from seeing if you’ve opened their email.
+Privacy
+App Privacy Report
+A section in Settings lets you see how often apps have accessed your location, photos, camera, microphone, and contacts during the last seven days. It also shows you which apps have contacted other domains and how recently they have contacted them. This is a good complement to an app’s privacy label, so you can be sure you’re comfortable with how it’s treating your privacy.9
+Siri
+On-device speech processing
+The audio of your requests is now processed entirely on your iPhone unless you choose to share it. The power of the Apple Neural Engine enables speech recognition models with the same high quality as server-based speech recognition.10
+
+Apple ID
+Account Recovery Contacts
+Choose one or more people you trust to become an Account Recovery Contact to help you reset your password and regain access to your account.
+
+Список обновлений iOS 15
+
+1.	Более естественное общение по FaceTime и совместная работа благодаря SharePlay.
+FaceTime позволяет быстро связаться с дорогими людьми, а в iOS 15 общение с родными и друзьями станет ещё более естественным. Благодаря технологии пространственного аудио кажется, что голоса участников звонка FaceTime звучат из той части экрана, где находится их изображение, а новые режимы микрофона позволяют отделить голос пользователя от фоновых шумов. Вдохновившись великолепными портретами на iPhone, компания добавила режим «Портрет» в FaceTime. Он предназначен для видеозвонков и размывает фон, чтобы в центре внимания оказался собеседник. А новый режим «Сетка» для групповых вызовов FaceTime позволяет видеть всех участников звонка одновременно.
+Пользователи смогут прямо во время разговора по FaceTime делиться впечатлениями с друзьями, используя функцию SharePlay. Например, можно будет вместе слушать музыку из Apple Music, синхронно смотреть фильмы и сериалы в Apple TV+ или делиться своим экраном, чтобы вместе просматривать приложения. Функция SharePlay доступна на iPhone, iPad и Mac, а благодаря общим элементам управления воспроизведением любой участник сеанса SharePlay сможет включать, приостанавливать или перематывать просматриваемый контент. Благодаря SharePlay пользователи могут вместе смотреть фильмы или сериалы на большом экране. Disney+, ESPN+, HBO Max, Hulu, MasterClass, Paramount+, Pluto TV, TikTok, Twitch и многие другие сервисы уже интегрируют SharePlay в свои приложения, создавая совершенно новые возможности для общения.
+Звонки FaceTime больше не ограничены устройствами Apple. Теперь на iPhone, iPad или Mac можно создать ссылку и переслать её через Сообщения, Календарь, электронную почту или стороннее приложение, чтобы любой человек мог присоединиться к звонку FaceTime, используя веб браузер на устройстве под управлением Android или Windows.3 Кроме того, веб-звонки FaceTime защищены сквозным шифрованием, поэтому о безопасности данных можно не беспокоиться.
+
+2.	Инструменты, которые помогут сфокусироваться
+iOS 15 предлагает мощные инструменты, которые помогают пользователям сосредоточиться и меньше отвлекаться. Фокусирование — это новая функция, которая отфильтровывает уведомления и приложения с учётом того, на чём пользователь хочет сосредоточиться в данный момент. Покупатели могут настроить устройство так, чтобы оно помогало им сконцентрироваться на текущих делах. Для этого можно создать пользовательское Фокусирование или выбрать один из готовых вариантов. Эта функция использует встроенные интеллектуальные возможности, чтобы определять, каким людям и приложениям в данный момент можно беспокоить пользователя, а каким — нет. Фокусирование учитывает привычки пользователя — например, в какие часы он работает, а когда ложится спать. Если Фокусирование настроено на одном устройстве Apple, эти настройки автоматически переносятся на все остальные устройства Apple, принадлежащие пользователю. Пользователи могут собирать на отдельных страницах главного экрана приложения и виджеты, необходимые для того или иного дела. Так они смогут меньше отвлекаться, а всё, что нужно для работы, будет под рукой. Когда Фокусирование блокирует поступающие уведомления, их статус автоматически отображается в Сообщениях отправителя, показывая, что пользователь в данный момент недоступен.
+
+3.	Новые возможности Уведомлений
+Дизайн Уведомлений изменился: появилась возможность добавлять фото контактов для людей, а значки приложений стали крупнее, чтобы их было проще узнать. Чтобы меньше отвлекать пользователя, новая сводка уведомлений собирает несрочные уведомления и доставляет их в более удобное время, например утром или вечером. Встроенные интеллектуальные функции позволяют упорядочить уведомления по приоритету и вывести в верхние строчки списка наиболее важные, с учётом того, с какими приложениями работает пользователь. Срочные уведомления доставляются немедленно, так что можно не опасаться, что важная переписка попадёт в сводку. Кроме того, можно временно отключить звук уведомлений для любого приложения или беседы на ближайший час или день.
+
+4.	Встроенные интеллектуальные функции повышают эффективность Онлайн-текста, расширенного поиска Spotlight и многих других инструментов
+Функция «Онлайн-текст» использует интеллектуальные возможности устройства для распознавания текста на фотографиях и позволяет выполнить с ним определённые действия. Например, пользователь может с помощью функции поиска найти снимок написанного от руки бабушкиного рецепта или сфотографировать номер телефона на двери магазина и позвонить по этому номеру. Благодаря возможностям Neural Engine от Apple приложение Камера может мгновенно распознавать и копировать текст, например пароль сети Wi Fi, указанный в меню кафе. Функция Visual Look Up позволяет больше узнать об объектах на фото, например о произведении искусства или достопримечательности, определить вид растения или породу собаки. Можно даже найти изображённую книгу.
+Spotlight теперь использует интеллектуальные функции, чтобы искать фотографии по месту съёмки, по запечатлённым людям, пейзажам или объектам. А с функцией «Онлайн-текст» Spotlight даже может находить на снимках набранный или написанный от руки текст. К тому же, Spotlight теперь выполняет поиск по изображениям в интернете и даёт отличные результаты при поиске актёров, музыкантов, телесериалов и фильмов. Улучшенные результаты поиска по контактам позволяют быстро найти последние беседы и недавно пересланные фотографии, и даже определить местоположение пользователя, если оно доступно через «Локатор». 
+В Фото значительно обновились Воспоминания: изменился дизайн, появились иммерсивные интерактивные возможности интерфейса и интеграция с Apple Music, которая благодаря интеллектуальным функциям учитывает личные предпочтения пользователя и подбирает мелодии, подходящие к воспоминаниям на снимках.
+
+5.	Обновлённый браузер Safari
+Обновлённый дизайн Safari позволяет работать с элементами управления одной рукой, а центральное место отводит контенту. Новая панель вкладок очень компактная и лаконичная. Она отображается внизу экрана, так что пользователь может переключаться между вкладками жестом смахивания. Группы вкладок позволяют сохранять вкладки и быстро получать к ним доступ на iPhone, iPad или Mac. А с такими новыми функциями, как настраиваемая главная страница и сторонние расширения в iOS, Safari становится ещё более мощным инструментом, адаптированным под индивидуальные потребности пользователя.
+Продолжить воспроизведение: Safari в iOS 15
+
+6.	Изучайте мир с Картами Apple
+Apple стремится составить лучшую в мире карту, и Карты в iOS 15 приблизились к этой цели благодаря новым способам подбора маршрутов и представления информации. На картах городов теперь намного детальнее отображаются районы, коммерческие кварталы, возвышенности и отдельные здания, добавлены новые цвета и отметки дорог, индивидуальные значки достопримечательностей и новый ночной режим с лунным освещением. Теперь вы будете видеть мир через Карты совершенно иначе.
+Достаточно проложить маршрут с помощью iPhone или CarPlay, и Карты предложат трёхмерную схему городских дорог с дополнительной информацией, которая поможет пользователю разобраться, с какой полосы можно поворачивать, на каких дорогах есть разделительная полоса, где проложены велосипедные дорожки, а где есть пешеходные переходы.4 А тем, кто пользуется общественным транспортом, будет проще найти ближайшие остановки и отметить любимые маршруты. Карты автоматически отслеживают движение по выбранному маршруту и заранее предупреждают, на какой остановке выходить. Следить за маршрутом можно также на Apple Watch. С iOS 15 пользователям достаточно поднять iPhone и держать его перед собой, чтобы Карты точно определили местоположение, проложили маршрут и показали его в дополненной реальности со всеми подробностями.
+
+7.	Новые функции конфиденциальности
+В iOS 15 появилось ещё больше возможностей для обеспечения конфиденциальности и защиты данных пользователя. Теперь благодаря технологии распознавания речи на устройстве запросы к Siri по умолчанию обрабатываются прямо на iPhone7, что значительно повышает эффективность. Функция «Защита конфиденциальности в Почте» не позволяет отправителю узнать, было ли его письмо открыто, и скрывает IP адреса, чтобы отправитель не мог определить местонахождение пользователя или создать на основе таких данных профиль пользователя. В отчёте о конфиденциальности приложения содержится информация о том, как приложение за последние семь дней использовало предоставленный ему доступ к данным о местоположении, к фотографиям, камере, микрофону и контактам и какие ещё действия оно выполняло.8
+
+8.	Обновлённые приложения «Погода» и «Заметки»
+В приложении «Погода» появилось больше вариантов графического представления данных, полноэкранные карты и динамические варианты оформления, которые меняются в зависимости от погодных условий. Великолепно оформленные анимированные фоны точнее отражают положение солнца и осадки, а уведомления подсказывают, когда начнётся или закончится снег или дождь.
+Продолжить воспроизведение: Приложение «Погода» в iOS 15
+В приложении «Заметки» можно использовать созданные пользователем теги, а упоминания позволяют людям, работающим с общими заметками, уведомлять друг друга о важных изменениях. Новый режим просмотра активности позволяет отслеживать последние изменения в общих заметках.
+
+9.	Дополнительные функции 
+Siri может передавать уведомления через наушники AirPods, выполнять голосовые запросы на совместный доступ к экрану и выполнять много других задач.
+Функция Отправлено Вам позволяет искать по всей системе статьи, музыку, сериалы, фотографии и другой контент, которым с вами делились в Сообщениях, и отображает его в соответствующих приложениях, таких как Фото, Safari, Apple News, Музыка, Подкасты и Apple TV.
+В iCloud+ всё, за что пользователи ценят iCloud, сочетается с новыми премиальными функциями, такими как «Скрыть e mail», расширенная поддержка защищённого видео HomeKit и новый передовой сервис iCloud Private Relay для обеспечения конфиденциальности в интернете, — и всё это без доплаты.9 Обладатели подписки iCloud будут автоматически переведены на iCloud+ этой осенью. Все тарифные планы iCloud+ могут совместно использовать все пользователи группы Семейного доступа, чтобы каждый в семье мог получить преимущества новых функций, доступ к хранилищу и более высокий уровень обслуживания. 
+В приложении Здоровье появилась новая вкладка общего доступа, которая позволяет делиться данными о здоровье с членами семьи, сиделкой или врачами. Функция анализа тенденций помогает привлечь внимание к значимым изменениям в показателях здоровья. А новая вкладка «Устойчивость при ходьбе» позволяет заранее оценить риск падения.
+Создатели аксессуаров HomeKit теперь могут использовать функцию «Привет, Siri» в своих продуктах, чтобы даже при использовании устройств сторонних производителей можно было давать Siri команды и получать ответы. Аксессуары с поддержкой «Привет, Siri» получают запросы и транслируют ответы через HomePod или HomePod mini, а также поддерживают такие функции, как личные запросы, интерком, таймеры и будильники. Начиная с сегодняшнего дня производители умных устройств для дома могут сотрудничать с Apple, чтобы интегрировать Siri в свои аксессуары.
+В службе Локатор появились новые возможности: поиск отключённых устройств и устройств со стёртыми данными, а также передача данных о местоположении от членов семьи и друзей, которые согласились ими делиться. Уведомления Separation Alerts предупреждают пользователя, если он забыл AirTag, устройство Apple или входящий в сеть службы «Локатор» аксессуар в незнакомом месте. Сеть службы «Локатор» теперь поддерживает наушники AirPods Pro и AirPods Max. А новый виджет «Локатор» позволяет увидеть сразу всю необходимую информацию на главном экране. 
+В инструменте Перевод появилась новая функция Live Translate, которая позволяет поддерживать непринужденную беседу, даже если собеседники говорят на разных языках. Перевод поддерживается во всех разделах операционной системы, поэтому пользователи могут переводить текст, какое бы приложение они ни открыли на iPhone.
+С новым вариантом настройки iPhone подготовить устройство к использованию можно ещё быстрее и проще. Покупатели, которые уже пользовались iPhone, могут временно сохранить резервную копию своих данных в iCloud (даже если у них нет подписки) и легко перенести все данные на новый iPhone. А тем, кто впервые приобрёл iPhone, усовершенствованное приложение «Перенос на iOS» поможет перенести фотоальбомы, файлы, папки и настройки универсального доступа, чтобы iPhone сразу стал для них личным и удобным устройством. 
+Универсальный доступ на iPhone дополнен новыми функциями для VoiceOver, которые помогают пользователям получать ещё больше информации о людях, текстах, таблицах и других объектах на изображении. В помощь людям с особенностями нервной системы добавлены звуковые фоны, которые сглаживают воздействие слуховых раздражителей. А для людей с нарушениями слуха создаются новые двунаправленные слуховые аппараты Made for iPhone. Функция Sound Actions позволяет настроить Виртуальный контроллер таким образом, чтобы он воспринимал звуки, издаваемые с помощью губ и языка. Кроме того, настройки дисплея и размера текста для разных приложений теперь можно задавать по отдельности. Apple также добавляет поддержку распознавания аудиограмм — графиков, которые строятся при проверке слуха. Аудиограммы будут использоваться для адаптации наушников.
+

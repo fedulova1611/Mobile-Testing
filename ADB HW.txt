@@ -1,0 +1,41 @@
+﻿ADB HW
+
+Сценарий напишите в .txt файл.
+.txt сценарий и .log файл прииложения todolist выгружайте на GitHub.
+
+
+1.	Отобразить подключённый девайс в консоли.
+
+$ ./adb devices
+List of devices attached
+R58N629C69D     device
+
+* daemon not running; starting now at tcp:5037
+* daemon started successfully
+
+
+2.	Вывести адрес приложения todolist в системе Android
+
+$ ./adb shell pm list packages | grep todolist
+
+ 3. Установить .apk файл приложениия todolist на телефон с компьютера через  ADB
+
+$ ./adb install e:/app-debug.apk
+
+ 4. Сделать скриншот запущенного приложения todolist и сразу скопировать на компьютер в одной команде.
+
+./adb shell screencap -p sdcard/DCIM/Screenshots/screen3.png && ./adb pull sdcard/DCIM/Screenshots/screen3.png e:/ADB/screen3.png
+
+ 5. Вывести в консоль логи приложения todolist
+
+./adb logcat | grep -rnw com.android.todolist
+
+ 6. Скопировать логи приложения todolist на компьютер.
+
+./adb logcat | grep -rnw com.android.todolist > e:/ADB/todolist123.log
+
+ 7. Удалить приложение todolist с телефона через ADB
+
+./adb uninstall com.android.todolist
+
+
